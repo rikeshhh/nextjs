@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "name": "Chhiring",
+      "title": "a title",
+      "description": "blablb",
+      "id": "e14d"
+    },
+    {
+      "id": "a844",
+      "name": "Rikesh",
+      "description": "sdfsfsf",
+      "image": {
+        "path": "clay-banks-Ox6SW103KtM-unsplash.jpg"
+      }
+    }
+  ]
+}
